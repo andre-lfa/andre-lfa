@@ -8,6 +8,10 @@ I currently work as a software developer in Brazil and I am studying mainly Java
 - 👯 I’m looking to collaborate on open source projects!
 - 😄 Pronouns: HE/HIM
 
+<h3 align="left">Current Listening 🎧</h3>
+
+[![Spotify](https://andre-lfa.vercel.app/api/spotify)](https://open.spotify.com/user/andre-lfa)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andre-lfa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andre-lfa" height="30" width="40" /></a>
